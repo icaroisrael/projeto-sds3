@@ -1,4 +1,4 @@
-package com.israel.sps;
+package com.israel.sds;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
